@@ -63,12 +63,20 @@ Drop in your DXF parts, Nestra arranges them on the sheet, prepares the cut and 
 
 <div align="center">
 
-<a href="https://github.com/webalet?tab=achievements"><img src="assets/yolo.png" width="130" alt="YOLO achievement"/></a>
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/webalet?tab=achievements"><img src="assets/yolo.png" width="120" alt="YOLO achievement"/></a><br/>
+<b>YOLO</b><br/><sub>Merged a PR without a review 😎<br/>Gözden geçirmeden PR birleştirdim</sub>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/webalet?tab=achievements"><img src="assets/quickdraw.png" width="120" alt="Quickdraw achievement"/></a><br/>
+<b>Quickdraw</b><br/><sub>Closed an issue within 5 minutes ⚡<br/>5 dakikada issue kapattım</sub>
+</td>
+</tr>
+</table>
 
-**YOLO** — *merged a pull request without a review* 😎
-🇹🇷 *Gözden geçirme beklemeden PR birleştirdim.*
-
-<sub>Next up / Sıradakiler: 🦈 Pull Shark · ⚡ Quickdraw · 🤝 Pair Extraordinaire · ⭐ Starstruck</sub>
+<sub>Next up / Sıradakiler: 🦈 Pull Shark · 🤝 Pair Extraordinaire · ⭐ Starstruck</sub>
 
 </div>
 
