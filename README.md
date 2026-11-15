@@ -78,9 +78,9 @@ Drop in your DXF parts, Nestra arranges them on the sheet, prepares the cut and 
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webalet/webalet/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webalet/webalet/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/webalet/webalet/output/github-snake.svg" alt="Snake eating my contributions"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/webalet/webalet/output/github-snake-dark.svg?v=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/webalet/webalet/output/github-snake.svg?v=2"/>
+  <img src="https://raw.githubusercontent.com/webalet/webalet/output/github-snake.svg?v=2" alt="Snake eating my contributions"/>
 </picture>
 </div>
 
